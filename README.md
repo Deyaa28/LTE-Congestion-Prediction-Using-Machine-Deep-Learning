@@ -13,8 +13,6 @@ Congestion within a cellular network is a critical element that may contribute t
 
 The effects of congestion on cell stability are profound, and understanding these dynamics is crucial for effective network management. Users may encounter lower data transfer speeds, more call drops, and worse voice quality in crowded situations. The increased demand for resources and network inefficiencies during congested periods increases the probability of service disruptions.
 
-Mitigating congestion and enhancing cell stability is essential for ensuring optimal network performance, maintaining Quality of Service (QoS) standards, and meeting user expectations. Predictive models that accurately forecast congestion and instability patterns may contribute to resource allocation, efficient traffic management, and enhancing network resilience.
-
 ## Methodology
 The research aims to predict LTE network congestion and improve infrastructure using AI, ML, and DL techniques. It utilizes machine learning models like Random Forest and XGBoost, as well as deep learning models like LSTM and GRU. The methodology involves data collection, preprocessing, machine learning model development, and deep learning model development.
 
@@ -36,10 +34,3 @@ Random Forest and XGBoost achieved state-of-the-art results in predicting PRB Ut
 
 ### Deep Learning Models
 LSTM and GRU also achieved promising results in predicting PRB Utilization, with LSTM showing slightly better performance in some cases.
-
-## Conclusion
-The study demonstrates the effectiveness of machine learning and deep learning techniques in predicting LTE network congestion and improving cell site stability. The developed models can assist network operators in proactive network optimization and resource allocation.
-
----
-
-For more detailed information, refer to the full paper.
